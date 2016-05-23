@@ -29,7 +29,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for FPGA_Board
 
 [Document1]
 DocumentPath=FPGA_board.PcbLib
@@ -268,7 +268,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for FPGA_Board
 
 [OutputGroup1]
 Name=Netlist Outputs
