@@ -1,7 +1,7 @@
-Record=TopLevelDocument|FileName=FPGA_board.SchDoc
 Record=SheetSymbol|SourceDocument=FPGA_board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=core_power.SchDoc|SymbolType=Normal|RawFileName=core_power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=FPGA_board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=memory.SchDoc|SymbolType=Normal|RawFileName=memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=FPGA_board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=power.SchDoc|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=FPGA_board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ports.SchDoc|SymbolType=Normal|RawFileName=ports.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=FPGA_board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=video.SchDoc|SymbolType=Normal|RawFileName=video.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=FPGA_board.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=core.SchDoc|SymbolType=Normal|RawFileName=core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=FPGA_board.SchDoc
