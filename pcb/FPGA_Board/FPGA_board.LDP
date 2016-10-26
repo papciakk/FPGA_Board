@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\snaf\Desktop\pcbnew\FPGA_Board\pcb\FPGA_board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fpga_board-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=fpga_board-slotholes.txt|LayerPairs=gtl,gbl

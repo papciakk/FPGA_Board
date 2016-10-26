@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: C:\Users\snaf\Desktop\pcbnew\FPGA_Board\pcb\FPGA_board.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=others|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=5V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=3.3V|Scope=Board|Minimum=7.99
+RuleKind=Width|RuleName=All_others|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=FB_TO_DAC|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=FB_TO_FPGA|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=MEM_TO_FPGA|Scope=Board|Minimum=7.99
+RuleKind=Width|RuleName=PORTS|Scope=Board|Minimum=7.99
+RuleKind=Width|RuleName=Power|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=VGA1|Scope=Board|Minimum=7.99
+RuleKind=Width|RuleName=VGA2|Scope=Board|Minimum=7.99
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.09
