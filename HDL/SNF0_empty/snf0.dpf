@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="GPIO[0..3]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="GPI[0..7]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="SRAM_ADDR[0..18]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="SRAM_DQ[0..31]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="SRAM_PAR[0..3]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="VGA1_B[0..7]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="VGA1_G[0..7]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+		<pin name="VGA1_R[0..7]" direction="Unknown Group" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+		<bus name="GPIO[0..3]" direction="Unknown Group" >
+			<member name="GPIO[0]" />
+			<member name="GPIO[1]" />
+			<member name="GPIO[2]" />
+			<member name="GPIO[3]" />
+		</bus>
+		<bus name="GPI[0..7]" direction="Unknown Group" >
+			<member name="GPI[0]" />
+			<member name="GPI[1]" />
+			<member name="GPI[2]" />
+			<member name="GPI[3]" />
+			<member name="GPI[4]" />
+			<member name="GPI[5]" />
+			<member name="GPI[6]" />
+			<member name="GPI[7]" />
+		</bus>
+		<bus name="SRAM_ADDR[0..18]" direction="Unknown Group" >
+			<member name="SRAM_ADDR[0]" />
+			<member name="SRAM_ADDR[1]" />
+			<member name="SRAM_ADDR[2]" />
+			<member name="SRAM_ADDR[3]" />
+			<member name="SRAM_ADDR[4]" />
+			<member name="SRAM_ADDR[5]" />
+			<member name="SRAM_ADDR[6]" />
+			<member name="SRAM_ADDR[7]" />
+			<member name="SRAM_ADDR[8]" />
+			<member name="SRAM_ADDR[9]" />
+			<member name="SRAM_ADDR[10]" />
+			<member name="SRAM_ADDR[11]" />
+			<member name="SRAM_ADDR[12]" />
+			<member name="SRAM_ADDR[13]" />
+			<member name="SRAM_ADDR[14]" />
+			<member name="SRAM_ADDR[15]" />
+			<member name="SRAM_ADDR[16]" />
+			<member name="SRAM_ADDR[17]" />
+			<member name="SRAM_ADDR[18]" />
+		</bus>
+		<bus name="SRAM_DQ[0..31]" direction="Unknown Group" >
+			<member name="SRAM_DQ[0]" />
+			<member name="SRAM_DQ[1]" />
+			<member name="SRAM_DQ[2]" />
+			<member name="SRAM_DQ[3]" />
+			<member name="SRAM_DQ[4]" />
+			<member name="SRAM_DQ[5]" />
+			<member name="SRAM_DQ[6]" />
+			<member name="SRAM_DQ[7]" />
+			<member name="SRAM_DQ[8]" />
+			<member name="SRAM_DQ[9]" />
+			<member name="SRAM_DQ[10]" />
+			<member name="SRAM_DQ[11]" />
+			<member name="SRAM_DQ[12]" />
+			<member name="SRAM_DQ[13]" />
+			<member name="SRAM_DQ[14]" />
+			<member name="SRAM_DQ[15]" />
+			<member name="SRAM_DQ[16]" />
+			<member name="SRAM_DQ[17]" />
+			<member name="SRAM_DQ[18]" />
+			<member name="SRAM_DQ[19]" />
+			<member name="SRAM_DQ[20]" />
+			<member name="SRAM_DQ[21]" />
+			<member name="SRAM_DQ[22]" />
+			<member name="SRAM_DQ[23]" />
+			<member name="SRAM_DQ[24]" />
+			<member name="SRAM_DQ[25]" />
+			<member name="SRAM_DQ[26]" />
+			<member name="SRAM_DQ[27]" />
+			<member name="SRAM_DQ[28]" />
+			<member name="SRAM_DQ[29]" />
+			<member name="SRAM_DQ[30]" />
+			<member name="SRAM_DQ[31]" />
+		</bus>
+		<bus name="SRAM_PAR[0..3]" direction="Unknown Group" >
+			<member name="SRAM_PAR[0]" />
+			<member name="SRAM_PAR[1]" />
+			<member name="SRAM_PAR[2]" />
+			<member name="SRAM_PAR[3]" />
+		</bus>
+		<bus name="VGA1_B[0..7]" direction="Unknown Group" >
+			<member name="VGA1_B[0]" />
+			<member name="VGA1_B[1]" />
+			<member name="VGA1_B[2]" />
+			<member name="VGA1_B[3]" />
+			<member name="VGA1_B[4]" />
+			<member name="VGA1_B[5]" />
+			<member name="VGA1_B[6]" />
+			<member name="VGA1_B[7]" />
+		</bus>
+		<bus name="VGA1_G[0..7]" direction="Unknown Group" >
+			<member name="VGA1_G[0]" />
+			<member name="VGA1_G[1]" />
+			<member name="VGA1_G[2]" />
+			<member name="VGA1_G[3]" />
+			<member name="VGA1_G[4]" />
+			<member name="VGA1_G[5]" />
+			<member name="VGA1_G[6]" />
+			<member name="VGA1_G[7]" />
+		</bus>
+		<bus name="VGA1_R[0..7]" direction="Unknown Group" >
+			<member name="VGA1_R[0]" />
+			<member name="VGA1_R[1]" />
+			<member name="VGA1_R[2]" />
+			<member name="VGA1_R[3]" />
+			<member name="VGA1_R[4]" />
+			<member name="VGA1_R[5]" />
+			<member name="VGA1_R[6]" />
+			<member name="VGA1_R[7]" />
+		</bus>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
